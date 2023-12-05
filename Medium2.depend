@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701784700 source:g:\lvelocal\medium2\main.c
+	<stdio.h>
+	<stdlib.h>
+
